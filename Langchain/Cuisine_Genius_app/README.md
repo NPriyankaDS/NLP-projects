@@ -1,7 +1,7 @@
 # Langchain
 This repository will contain codes for LLM applications
 
-Introducing "CuisineGenius" - Your Ultimate Restaurant Idea Generator! 🍽️
+Introducing "Cuisine Genius" - Your Ultimate Restaurant Idea Generator! 🍽️
 
 Are you an aspiring restaurateur looking for the perfect concept to kickstart your culinary venture? Look no further!  
 "CuisineGenius," is an application developed using the LangChain framework and powered by the intuitive Streamlit library.
@@ -36,9 +36,9 @@ Explore the Sample Menu:
 Dive into a carefully curated menu that reflects the essence of the cuisine. Use it as inspiration or take it as is – the choice is yours!
 Get Inspired and Start Cooking:
 
-With CuisineGenius, your journey to restaurant success begins. Use the generated ideas as a foundation to bring your culinary dreams to life.
-Ready to Get Started? Visit CuisineGenius.com Now!
+With Cuisine Genius, your journey to restaurant success begins. Use the generated ideas as a foundation to bring your culinary dreams to life.
+Ready to Get Started? Visit https://cuisine-genius.streamlit.app/ Now!
 
 Embark on a culinary adventure with CuisineGenius and turn your restaurant dreams into reality. Visit our website and let the creative ideas flow. Your culinary masterpiece awaits!
 
-🌟 CuisineGenius - Where Ideas Meet Flavor! 🌟
+🌟 Cuisine Genius - Where Ideas Meet Flavor! 🌟
