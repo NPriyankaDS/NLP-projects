@@ -1,17 +1,16 @@
-# Langchain
-This repository will contain codes for LLM applications
+# Cuisine Genius App
 
-Introducing "Cuisine Genius" - Your Ultimate Restaurant Idea Generator! 🍽️
+## Introducing "Cuisine Genius" - Your Ultimate Restaurant Idea Generator! 🍽️
 
 Are you an aspiring restaurateur looking for the perfect concept to kickstart your culinary venture? Look no further!  
 "CuisineGenius," is an application developed using the LangChain framework and powered by the intuitive Streamlit library.
 
-Unleash Your Culinary Creativity:
+### Unleash Your Culinary Creativity:
 CuisineGenius is designed to inspire your next restaurant venture by generating unique ideas for various cuisine types. Whether you're into exotic flavors or classic dishes, this app has you covered.
 
-Key Features:
+### Key Features:
 
-Diverse Cuisine Selection:
+## Diverse Cuisine Selection:
 
 Choose from a vast array of cuisine types, from Italian and Mexican to Japanese and Indian. CuisineGenius understands your preference and tailors its suggestions accordingly.
 Creative Restaurant Names:
@@ -23,21 +22,18 @@ Each idea comes complete with a sample menu, carefully crafted to showcase the u
 Streamlined Interface with Streamlit:
 
 The user-friendly interface is powered by Streamlit, making it easy to navigate and interact with the app. Get instant access to restaurant ideas with just a few clicks.
-How It Works:
+## How It Works:
 
-Select Your Cuisine:
-
+1. Select Your Cuisine:
 Choose the cuisine type you're interested in from the dropdown menu.
-Discover a Unique Restaurant Name:
-
+2. Discover a Unique Restaurant Name:
 Instantly receive a creative and engaging restaurant name tailored to your chosen cuisine.
-Explore the Sample Menu:
-
+3.Explore the Sample Menu:
 Dive into a carefully curated menu that reflects the essence of the cuisine. Use it as inspiration or take it as is – the choice is yours!
-Get Inspired and Start Cooking:
-
+4.Get Inspired and Start Cooking:
 With Cuisine Genius, your journey to restaurant success begins. Use the generated ideas as a foundation to bring your culinary dreams to life.
-Ready to Get Started? Visit https://cuisine-genius.streamlit.app/ Now!
+
+## Ready to Get Started? Visit https://cuisine-genius.streamlit.app/ Now!
 
 Embark on a culinary adventure with CuisineGenius and turn your restaurant dreams into reality. Visit our website and let the creative ideas flow. Your culinary masterpiece awaits!
 
