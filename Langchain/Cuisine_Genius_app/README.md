@@ -26,10 +26,13 @@ The user-friendly interface is powered by Streamlit, making it easy to navigate 
 
 1. Select Your Cuisine:
 Choose the cuisine type you're interested in from the dropdown menu.
+
 2. Discover a Unique Restaurant Name:
 Instantly receive a creative and engaging restaurant name tailored to your chosen cuisine.
+
 3.Explore the Sample Menu:
 Dive into a carefully curated menu that reflects the essence of the cuisine. Use it as inspiration or take it as is – the choice is yours!
+
 4.Get Inspired and Start Cooking:
 With Cuisine Genius, your journey to restaurant success begins. Use the generated ideas as a foundation to bring your culinary dreams to life.
 
